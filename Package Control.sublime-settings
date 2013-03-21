@@ -1,0 +1,32 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DashDoc",
+		"DocBlockr",
+		"EasyMotion",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GoSublime",
+		"laravel-blade",
+		"LaTeXTools",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PlainTasks",
+		"Rust",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Aqua",
+		"VintageEx"
+	]
+}

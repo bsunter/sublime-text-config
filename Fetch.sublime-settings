@@ -1,0 +1,14 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"zepto": "http://zeptojs.com/zepto.min.js"
+	},
+	"packages":
+	{
+		"bootsrap": "https://github.com/twitter/bootstrap/zipball/master",
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"starkers": "https://github.com/viewportindustries/starkers/zipball/master",
+		"wordpress": "https://github.com/WordPress/WordPress/zipball/master"
+	}
+}
