@@ -1,6 +1,6 @@
 {
   "auto_complete": true,
-  "auto_complete_commit_on_tab": true,
+  "auto_complete_commit_on_tab": false,
   "auto_complete_delay": 50,
   "auto_complete_selector": "source, text",
   "auto_complete_size_limit": 4194304,
@@ -85,7 +85,6 @@
   "hot_exit": false,
   "ignored_packages":
   [
-    ".git"
   ],
   "indent_guide_options":
   [
@@ -104,6 +103,9 @@
   "move_to_limit_on_up_down": false,
   "open_files_in_new_window": false,
   "overlay_scroll_bars": "system",
+  "phoenix_color_blue": true,
+  "phoenix_tabs_auto_width": true,
+  "phoenix_tabs_small": true,
   "remember_open_files": false,
   "rulers":
   [
@@ -113,12 +115,12 @@
   "scroll_past_end": true,
   "scroll_speed": 1.0,
   "shift_tab_unindent": false,
-  "show_tab_close_buttons": true,
   "show_full_path": true,
+  "show_tab_close_buttons": true,
   "smart_indent": true,
   "spell_check": false,
-  "tab_completion": true,
-  "theme": "AppKit.sublime-theme",
+  "tab_completion": false,
+  "theme": "Phoenix Light.sublime-theme",
   "translate_tabs_to_spaces": true,
   "tree_animation_enabled": false,
   "trim_automatic_white_space": true,
