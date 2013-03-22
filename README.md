@@ -41,7 +41,7 @@ xii. [SublimeCodeIntel](#sublimecodeintel)
 
 xiii. [SublimeLinter](#sublimelinter)
 
-xiv. [Theme - Aqua](#theme_aqua)
+xiv. [Theme - Phoenix](#theme_phoenix)
 
 xv. [VintageEX](#vintageex)
 
@@ -160,17 +160,25 @@ Adds code intelligence for most popular languages. Allows you to jump to symbols
 
 Adds syntax checking. Just install this and forget about it.
 
-## xiv. <a name="theme_aqua"></a> [Theme - Aqua](https://github.com/cafarm/aqua-theme)
+## xiv. <a name="theme_phoenix"></a> [Theme - Phoenix](https://github.com/netatoo/phoenix-theme)
 
 This plugin is optional but it makes the UI even more pleasing to look at. Changes tabs to look like [Coda](http://panic.com/coda)-tabs.
 
 Add the following to your preferences if you're using a light colorscheme:
 
-`"theme": "AppKit.sublime-theme"`
+`"theme": "Phoenix Light.sublime-theme"`
 
 or a dark colorscheme:
 
-`"theme": "ProKit.sublime-theme"`
+`"theme": "Phoenix Dark.sublime-theme"`
+
+Additional color settings can be set e.g.:
+
+`"phoenix_color_blue": true`
+
+`"phoenix_highlight_current_tab": true`
+
+and more.
 
 ## xv. <a name="vintageex"></a> [VintageEX](https://github.com/SublimeText/VintageEx)
 
