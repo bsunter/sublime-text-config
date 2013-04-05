@@ -36,7 +36,7 @@
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_centered": false,
 	"draw_indent_guides": true,
-	"draw_minimap_border": true,
+	"draw_minimap_border": false,
 	"draw_white_space": "selection",
 	"enable_hexadecimal_encoding": true,
 	"ensure_newline_at_eof_on_save": false,
@@ -82,7 +82,7 @@
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"hot_exit": false,
+	"hot_exit": true,
 	"ignored_packages":
 	[
 	],
