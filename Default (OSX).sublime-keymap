@@ -14,5 +14,57 @@
       "command": "run_emmet_action"
   },
   { "keys": ["ctrl+super+k"], "command": "swap_line_up" },
-  { "keys": ["ctrl+super+j"], "command": "swap_line_down" }
+  { "keys": ["ctrl+super+j"], "command": "swap_line_down" },
+  {
+      "keys": ["super+shift+b", "super+shift+s"],
+      "command": "bh_key",
+      "args":
+      {
+          "lines" : true,
+          "plugin":
+          {
+              "type": ["__all__"],
+              "command": "bh_modules.bracketselect"
+          }
+      }
+  },
+  {
+      "keys": ["super+shift+b", "super+shift+["],
+      "command": "bh_key",
+      "args":
+      {
+          "plugin": {
+              "type": ["__all__"],
+              "command" : "bh_modules.foldbracket"
+          }
+      }
+  },
+  {
+      "keys": ["alt+up"],
+      "command": "bh_key",
+      "args":
+      {
+          "lines" : true,
+          "plugin":
+          {
+              "type": ["__all__"],
+              "command": "bh_modules.bracketselect",
+              "args": {"select": "left"}
+          }
+      }
+  },
+  {
+      "keys": ["alt+down"],
+      "command": "bh_key",
+      "args":
+      {
+          "lines" : true,
+          "plugin":
+          {
+              "type": ["__all__"],
+              "command": "bh_modules.bracketselect",
+              "args": {"select": "right"}
+          }
+      }
+  }
 ]
