@@ -3,6 +3,7 @@
 
   { "keys": ["super+j"], "command": "join_lines"},
   { "keys": ["ctrl+s"], "command": "toggle_side_bar"},
+  { "keys": ["super+ctrl+m"], "command": "toggle_minimap"},
   { "keys": ["ctrl+r"], "command": "side_bar_rename"},
   {
       "keys": [
