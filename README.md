@@ -133,7 +133,7 @@ Expands sidebar options which are _very_ limited by default. Essential plugin.
 
 ## x. <a name="solarized_color_scheme"></a> [Solarized Color Scheme](https://github.com/SublimeColors/Solarized)
 
-I've used a _lot_ of different color schemes in many different editors, but this one has stuck with me for almost a year now. Easy on the eyes and subtle colors. It has been [recreated](https://github.com/skuroda/Sublime-AdvancedNewFile) for lots of different text editors.
+I've used a _lot_ of different color schemes in many different editors, but this one has stuck with me for almost a year now. Easy on the eyes and subtle colors. It has been [recreated](http://ethanschoonover.com/solarized) for lots of different text editors.
 
 ## xi. <a name="sublimelinter"></a> [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
 
@@ -264,7 +264,7 @@ Snippets, build system, previewing. Essential if you use Sublime Text 2 for LaTe
 
 Self-explanatory. Allows you to preview Markdown files. I'm using it right now to preview this file :)
 
-`super + shift + p` and type `mpr<enter>` to preview in the browser.
+For instance, `super + shift + p` and type `mpb<enter>` to preview in the browser.
 
 ## v. [Rust](https://github.com/dbp/sublime-rust)
 
