@@ -2,7 +2,7 @@
 
 This is my personal sublime text configuration.
 
-## Sublime Text 2
+## Package Control - Sublime Text 2
 
 **All** packages should be installed via [Package Control](http://wbond.net/sublime_packages/package_control). To install Package Control open Sublime Text 2 and press **ctrl + `** to open the console. Then enter the following command:
 
@@ -14,7 +14,7 @@ Restart Sublime Text 2.
 
 Now you can install packages by opening up the command palette with `ctrl/super + shift + p` and typing `inst` or something similar to find the `Package Control: Install Package` command.
 
-## Sublime Text 3
+## Package Control - Sublime Text 3
 
 Check out the instructions on [this](http://wbond.net/sublime_packages/package_control/installation#ST3) page.
 
