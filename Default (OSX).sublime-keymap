@@ -69,7 +69,7 @@
       }
   },
     {
-    "keys": ["ctrl+j"],
+    "keys": ["ctrl+shift+h"],
     "command": "alternative_autocomplete",
     "context": [
       {"key": "num_selections", "operator": "equal", "operand": 1},
@@ -81,7 +81,7 @@
     ]
   },
   {
-    "keys": ["shift+ctrl+j"],
+    "keys": ["shift+ctrl+k"],
     "command": "alternative_autocomplete",
     "args": {"cycle": "previous"},
     "context": [

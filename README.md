@@ -47,6 +47,8 @@ xii. [Theme - Phoenix](#theme_phoenix)
 
 xiii. [VintageEX](#vintageex)
 
+xiv. [Alternative Autocompletion](#alternative_autocompletion)
+
 **[Web Design Packages](#webdesign_packages)**
 
 i. [Color Highlighter](#color_highlighter)
@@ -188,6 +190,10 @@ Some examples:
 And many more.
 
 You need to have the Vintage package enabled and you need to be in command mode.
+
+## xiv. <a name="alternative_autocompletion"></a> [Alternative Autocompletion](https://github.com/alexstaubo/sublime_text_alternative_autocompletion)
+
+Provides TextMate-like autocompletion (scroll through possibilities). I've mapped this to `ctrl + shift h/k`.
 
 # <a name="web_design_packages"></a> Web Design Packages
 
