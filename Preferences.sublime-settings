@@ -1,7 +1,7 @@
 {
-	"auto_complete": true,
+	"auto_complete": false,
 	"auto_complete_commit_on_tab": true,
-	"auto_complete_delay": 50,
+	"auto_complete_delay": 5000,
 	"auto_complete_selector": "source, text",
 	"auto_complete_size_limit": 4194304,
 	"auto_complete_triggers":
@@ -33,7 +33,7 @@
 	"default_line_ending": "system",
 	"detect_indentation": false,
 	"detect_slow_plugins": false,
-	"dictionary": "Packages/Language - Dutch/nl_NL.dic",
+	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_centered": false,
 	"draw_indent_guides": true,
 	"draw_minimap_border": false,
@@ -78,7 +78,7 @@
 		".sass-cache"
 	],
 	"font_face": "Ubuntu Mono",
-	"font_size": 16,
+	"font_size": 16.0,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
