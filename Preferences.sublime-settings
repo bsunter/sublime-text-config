@@ -33,7 +33,7 @@
 	"default_line_ending": "system",
 	"detect_indentation": false,
 	"detect_slow_plugins": false,
-	"dictionary": "Packages/Language - English/en_US.dic",
+	"dictionary": "Packages/Language - Dutch/nl_NL.dic",
 	"draw_centered": false,
 	"draw_indent_guides": true,
 	"draw_minimap_border": false,
