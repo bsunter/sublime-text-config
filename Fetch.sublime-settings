@@ -3,9 +3,9 @@
 	{
 		"jquery": "http://code.jquery.com/jquery.min.js",
 		"normalize-sass": "https://raw.github.com/bsunter/normalize.sass/master/normalize.sass",
-		"zepto": "http://zeptojs.com/zepto.min.js",
-    "qunitjs": "http://code.jquery.com/qunit/qunit-1.11.0.js",
-    "qunitcss": "http://code.jquery.com/qunit/qunit-1.11.0.css"
+		"qunitcss": "http://code.jquery.com/qunit/qunit-1.11.0.css",
+		"qunitjs": "http://code.jquery.com/qunit/qunit-1.11.0.js",
+		"zepto": "http://zeptojs.com/zepto.min.js"
 	},
 	"packages":
 	{
