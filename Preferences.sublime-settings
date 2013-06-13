@@ -26,6 +26,7 @@
     "*.jar",
     "*.zip"
   ],
+  "bold_folder_labels": true,
   "caret_style": "phase",
   "close_windows_when_empty": false,
   "color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
