@@ -117,7 +117,7 @@
   "save_on_focus_lost": false,
   "scroll_past_end": true,
   "scroll_speed": 1.0,
-  "shift_tab_unindent": false,
+  "shift_tab_unindent": true,
   "show_full_path": true,
   "show_tab_close_buttons": true,
   "smart_indent": true,
