@@ -1,8 +1,8 @@
 {
-  "auto_complete": false,
+  "auto_complete": true,
   "auto_complete_commit_on_tab": true,
-  "auto_complete_delay": 5000,
-  "auto_complete_selector": "source, text",
+  "auto_complete_delay": 50,
+  "auto_complete_selector": "source - comment",
   "auto_complete_size_limit": 4194304,
   "auto_complete_triggers":
   [
