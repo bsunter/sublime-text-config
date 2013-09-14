@@ -15,5 +15,6 @@
       "command": "run_emmet_action"
   },
   { "keys": ["ctrl+super+k"], "command": "swap_line_up" },
-  { "keys": ["ctrl+super+j"], "command": "swap_line_down" }
+  { "keys": ["ctrl+super+j"], "command": "swap_line_down" },
+  { "keys": ["ctrl+super+u", "ctrl+super+f"], "command": "ftp_sync_current" }
 ]
