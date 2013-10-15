@@ -1,0 +1,17 @@
+[
+   {
+      "args":
+      {
+         "to": "line"
+      },
+      "command": "expand_selection"
+   },
+   {
+      "args": null,
+      "command": "split_selection_into_lines"
+   },
+   {
+      "args": null,
+      "command": "copy"
+   }
+]
