@@ -29,7 +29,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "solid",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/Solarized (light) (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -80,7 +80,7 @@
 		"CVS",
 		".sass-cache"
 	],
-	"font_face": "Anonymous Pro",
+	"font_face": "Source Code Pro",
 	"font_size": 14.0,
 	"gutter": true,
 	"highlight_line": false,
@@ -106,9 +106,6 @@
 	"move_to_limit_on_up_down": false,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "system",
-	"phoenix_color_blue": true,
-	"phoenix_tabs_auto_width": true,
-	"phoenix_tabs_small": true,
 	"remember_open_files": false,
 	"rulers":
 	[
@@ -122,14 +119,14 @@
 	"smart_indent": true,
 	"spell_check": false,
 	"tab_completion": false,
-	"theme": "Phoenix Light.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": false,
 	"use_tab_stops": true,
-	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": "auto",
 	"wrap_width": 0
 }
