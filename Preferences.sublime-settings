@@ -67,6 +67,7 @@
 		"*.db",
 		"*.gitattributes",
 		"*.gitignore",
+		"*.gitmodules",
 		"*.sublime-workspace",
 		"*._*"
 	],
@@ -78,7 +79,8 @@
 		".git",
 		".hg",
 		"CVS",
-		".sass-cache"
+		".sass-cache",
+		"node_modules"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 14.0,
