@@ -23,23 +23,25 @@ Check out the instructions on [this](http://wbond.net/sublime_packages/package_c
 
 i. [AdvancedNewFile](#advancednewfile)
 
-ii. [Git](#git)
+ii. [BracketHighlighter](#brackethighlighter)
 
-iii. [GitGutter](#gitgutter)
+iii. [Git](#git)
 
-iv. [PlainTasks](#plaintasks)
+iv. [GitGutter](#gitgutter)
 
-v. [SFTP](#sftp)
+v. [PlainTasks](#plaintasks)
 
-vi. [SideBarEnhancements](#sidebarenhancements)
+vi. [SFTP](#sftp)
 
-vii. [Solarized Color Scheme](#solarized_color_scheme)
+vii. [SideBarEnhancements](#sidebarenhancements)
 
-viii. [SublimeLinter](#sublimelinter)
+viii. [Solarized Color Scheme](#solarized_color_scheme)
 
-ix. [Theme - Phoenix](#theme_phoenix)
+ix. [SublimeLinter](#sublimelinter)
 
-x. [VintageEX](#vintageex)
+x. [Theme - Phoenix](#theme_phoenix)
+
+xi. [VintageEX](#vintageex)
 
 **[Web Design Packages](#webdesign_packages)**
 
@@ -73,7 +75,11 @@ Easier file creation. Provides the shortcuts:
 
 `super + shift + alt +n`: same as above but also creates an `__init__.py` file in new directories.
 
-## ii. <a name="git"></a> [Git](https://github.com/kemayo/sublime-text-2-git)
+## ii. <a name="brackethighlighter"></a> [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
+
+Better bracket highlighting. Has come a long way since its first release. Install and forget.
+
+## iii. <a name="git"></a> [Git](https://github.com/kemayo/sublime-text-2-git)
 
 Adds support for Git. You can optionally create keybindings to control the plugin but I find that using the command palette works well enough.
 
@@ -85,13 +91,13 @@ Examples:
 
 Obviously requires a git repository to work.
 
-## iii. <a name="gitgutter"></a> [GitGutter](https://github.com/jisaacks/GitGutter)
+## iv. <a name="gitgutter"></a> [GitGutter](https://github.com/jisaacks/GitGutter)
 
 Adds a gutter to the editor which provides information about added/modified/removed lines.
 
 Obviously requires a git repository to work.
 
-## iv. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
+## v. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
 
 Formats your TODO files as checklists.
 
@@ -103,23 +109,23 @@ Adding a colon to words (like so `Front-end:`) creates headers.
 
 You can add tags like so: `@tag`
 
-## v. <a name="sftp"></a> [SFTP](http://wbond.net/sublime_packages/sftp)
+## vi. <a name="sftp"></a> [SFTP](http://wbond.net/sublime_packages/sftp)
 
 Manage FTP connections. Map local to remote folders. Allows for a [Coda](http://panic.com/coda)-like workflow. Extremely useful! It's usable without purchasing a license but I encourage you to support the author and buy one if you find that you're using this a lot.
 
-## vi. <a name="sidebarenhancements"></a> [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+## vii. <a name="sidebarenhancements"></a> [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 
 Expands sidebar options which are _very_ limited by default. Essential plugin.
 
-## vii. <a name="solarized_color_scheme"></a> [Solarized Color Scheme](https://github.com/SublimeColors/Solarized)
+## viii. <a name="solarized_color_scheme"></a> [Solarized Color Scheme](https://github.com/SublimeColors/Solarized)
 
 I've used a _lot_ of different color schemes in many different editors, but this one has stuck with me for almost a year now. Easy on the eyes and subtle colors. It has been [recreated](http://ethanschoonover.com/solarized) for lots of different text editors.
 
-## viii. <a name="sublimelinter"></a> [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
+## ix. <a name="sublimelinter"></a> [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
 
 Adds syntax checking. Just install this and forget about it.
 
-## ix. <a name="theme_phoenix"></a> [Theme - Phoenix](https://github.com/netatoo/phoenix-theme)
+## x. <a name="theme_phoenix"></a> [Theme - Phoenix](https://github.com/netatoo/phoenix-theme)
 
 This plugin is optional but it makes the UI even more pleasing to look at. Changes tabs to look like [Coda](http://panic.com/coda)-tabs.
 
@@ -139,7 +145,7 @@ Additional color settings can be set e.g.:
 
 and more.
 
-## x. <a name="vintageex"></a> [VintageEX](https://github.com/SublimeText/VintageEx)
+## xi. <a name="vintageex"></a> [VintageEX](https://github.com/SublimeText/VintageEx)
 
 Allows you to enter EX commands like you would do in vim.
 
