@@ -2,21 +2,11 @@
 
 This is my personal sublime text configuration.
 
-## Package Control - Sublime Text 2
+## Package Control
 
-**All** packages should be installed via [Package Control](http://wbond.net/sublime_packages/package_control). To install Package Control open Sublime Text 2 and press **ctrl + `** to open the console. Then enter the following command:
+**All** packages should be installed via [Package Control](http://wbond.net/sublime_packages/package_control).
 
-```python
-import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'
-```
-
-Restart Sublime Text 2.
-
-Now you can install packages by opening up the command palette with `ctrl/super + shift + p` and typing `inst` or something similar to find the `Package Control: Install Package` command.
-
-## Package Control - Sublime Text 3
-
-Check out the instructions on [this](http://wbond.net/sublime_packages/package_control/installation#ST3) page.
+Check out the instructions on [this](https://sublime.wbond.net/installation) page.
 
 ## Packages
 **[Must-have Packages](#must_have_packages)**
@@ -25,33 +15,25 @@ i. [AdvancedNewFile](#advancednewfile)
 
 ii. [BracketHighlighter](#brackethighlighter)
 
-iii. [Git](#git)
+iii. [FTPSync](#ftpsync)
 
-iv. [GitGutter](#gitgutter)
+iv. [Git](#git)
 
-v. [PlainTasks](#plaintasks)
+v. [GitGutter](#gitgutter)
 
-vi. [SFTP](#sftp)
+vi. [PlainTasks](#plaintasks)
 
 vii. [SideBarEnhancements](#sidebarenhancements)
 
-viii. [Solarized Color Scheme](#solarized_color_scheme)
+viii. [Theme - Spacegray](#theme_spacegray)
 
-ix. [SublimeLinter](#sublimelinter)
-
-x. [Theme - Phoenix](#theme_phoenix)
-
-xi. [VintageEX](#vintageex)
+ix. [Vintageous](#vintageous)
 
 **[Web Design Packages](#webdesign_packages)**
 
-i. [Color Highlighter](#color_highlighter)
+i. [ColorPicker](#colorpicker)
 
-ii. [ColorPicker](#colorpicker)
-
-iii. [Emmet](#emmet)
-
-iv. [Nettuts+ Fetch](#nettuts_fetch)
+ii. [Emmet](#emmet)
 
 **[Optional / Language-specific Packages](#optional_language_specific_packages)**
 
@@ -79,7 +61,11 @@ Easier file creation. Provides the shortcuts:
 
 Better bracket highlighting. Has come a long way since its first release. Install and forget.
 
-## iii. <a name="git"></a> [Git](https://github.com/kemayo/sublime-text-2-git)
+## iii. <a name="ftpsync"></a> [FTPSync](https://github.com/NoxArt/SublimeText2-FTPSync)
+
+Manage FTP connections. Map local to remote folders. Allows for a [Coda](http://panic.com/coda)-like workflow. Extremely useful!
+
+## iv. <a name="git"></a> [Git](https://github.com/kemayo/sublime-text-2-git)
 
 Adds support for Git. You can optionally create keybindings to control the plugin but I find that using the command palette works well enough.
 
@@ -91,13 +77,13 @@ Examples:
 
 Obviously requires a git repository to work.
 
-## iv. <a name="gitgutter"></a> [GitGutter](https://github.com/jisaacks/GitGutter)
+## v. <a name="gitgutter"></a> [GitGutter](https://github.com/jisaacks/GitGutter)
 
 Adds a gutter to the editor which provides information about added/modified/removed lines.
 
 Obviously requires a git repository to work.
 
-## v. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
+## vi. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
 
 Formats your TODO files as checklists.
 
@@ -109,45 +95,17 @@ Adding a colon to words (like so `Front-end:`) creates headers.
 
 You can add tags like so: `@tag`
 
-## vi. <a name="sftp"></a> [SFTP](http://wbond.net/sublime_packages/sftp)
-
-Manage FTP connections. Map local to remote folders. Allows for a [Coda](http://panic.com/coda)-like workflow. Extremely useful! It's usable without purchasing a license but I encourage you to support the author and buy one if you find that you're using this a lot.
-
 ## vii. <a name="sidebarenhancements"></a> [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 
 Expands sidebar options which are _very_ limited by default. Essential plugin.
 
-## viii. <a name="solarized_color_scheme"></a> [Solarized Color Scheme](https://github.com/SublimeColors/Solarized)
+## viii. <a name="theme_spacegray"></a> [Spacegray Theme](https://github.com/kkga/spacegray)
 
-I've used a _lot_ of different color schemes in many different editors, but this one has stuck with me for almost a year now. Easy on the eyes and subtle colors. It has been [recreated](http://ethanschoonover.com/solarized) for lots of different text editors.
+Optional; but this is my favorite theme of the moment. I use the dark variant with the dark ocean colorscheme.
 
-## ix. <a name="sublimelinter"></a> [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
+## ix. <a name="vintageous"></a> [Vintageous](https://github.com/guillermooo/Vintageous)
 
-Adds syntax checking. Just install this and forget about it.
-
-## x. <a name="theme_phoenix"></a> [Theme - Phoenix](https://github.com/netatoo/phoenix-theme)
-
-This plugin is optional but it makes the UI even more pleasing to look at. Changes tabs to look like [Coda](http://panic.com/coda)-tabs.
-
-Add the following to your preferences if you're using a light colorscheme:
-
-`"theme": "Phoenix Light.sublime-theme"`
-
-or a dark colorscheme:
-
-`"theme": "Phoenix Dark.sublime-theme"`
-
-Additional color settings can be set e.g.:
-
-`"phoenix_color_blue": true`
-
-`"phoenix_highlight_current_tab": true`
-
-and more.
-
-## xi. <a name="vintageex"></a> [VintageEX](https://github.com/SublimeText/VintageEx)
-
-Allows you to enter EX commands like you would do in vim.
+Awesome plugin. Makes the already powerful vintage mode even better. Adds support for EX commands.
 
 Some examples:
 
@@ -173,15 +131,11 @@ You need to have the Vintage package enabled and you need to be in command mode.
 
 These packages are useful for web design.
 
-## i. <a name="color_highlighter"> [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter)
-
-Highlights hex code colors. Useful in CSS files.
-
-## ii. <a name="colorpicker"> [ColorPicker](https://github.com/weslly/ColorPicker)
+## i. <a name="colorpicker"> [ColorPicker](https://github.com/weslly/ColorPicker)
 
 Pops up a handy color picker with `super + shift + c`.
 
-## iii. <a name="emmet"> [Emmet](https://github.com/sergeche/emmet-sublime)
+## ii. <a name="emmet"> [Emmet](https://github.com/sergeche/emmet-sublime)
 
 A toolkit for web developers. Evolved from Zen Coding. It is advised to disable all of the keybindings because some of them clash with default keybindings like `super + d/ctrl + d` (Expand selection to word) and `ctrl + e` (Move to EOL).
 
@@ -224,10 +178,6 @@ And intuitive CSS completions:
 
 There's so much more Emmet can do; you should check out the [documentation](http://docs.emmet.io/) to learn about all of the features.
 
-## iv. [Nettuts+ Fetch](https://github.com/weslly/Nettuts-Fetch)
-
-Fetches packages or single files. Useful to quickly grab the latest version of [WordPress](http://www.wordpress.org), the [H5B](http://html5boilerplate.com/) etc.
-
 # <a name="optional_language_specific_packages"></a> Optional / Language-specific Packages
 
 These packages add functionality such as syntax highlighting, snippets and build systems for specific languages or tools.
@@ -238,7 +188,7 @@ Syntax highlighting and some snippets for Laravel's Blade templating engine.
 
 ## ii. [LaTeXTools](https://github.com/SublimeText/LaTeXTools)
 
-Snippets, build system, previewing. Essential if you use Sublime Text 2 for LaTeX.
+Snippets, build system, previewing. Essential if you use Sublime Text for LaTeX.
 
 ## iii. [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 

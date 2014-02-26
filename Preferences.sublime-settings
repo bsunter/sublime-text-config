@@ -67,6 +67,7 @@
 		"*.db",
 		"*.gitattributes",
 		"*.gitignore",
+		"*.gitmodules",
 		"*.sublime-workspace",
 		"*._*"
 	],
@@ -78,7 +79,8 @@
 		".git",
 		".hg",
 		"CVS",
-		".sass-cache"
+		".sass-cache",
+		"node_modules"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 14.0,
@@ -106,7 +108,7 @@
 	"match_selection": true,
 	"match_tags": true,
 	"move_to_limit_on_up_down": false,
-	"open_files_in_new_window": false,
+	"open_files_in_new_window": true,
 	"overlay_scroll_bars": "system",
 	"remember_open_files": false,
 	"rulers":
