@@ -69,7 +69,8 @@
 		"*.gitignore",
 		"*.gitmodules",
 		"*.sublime-workspace",
-		"*._*"
+		"*._*",
+		"*.afignore"
 	],
 	"find_selected_text": true,
 	"fold_buttons": true,
