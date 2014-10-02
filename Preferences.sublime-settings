@@ -81,7 +81,8 @@
 		".hg",
 		"CVS",
 		".sass-cache",
-		"node_modules"
+		"node_modules",
+		".idea"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 14.0,
