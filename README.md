@@ -37,7 +37,7 @@ ii. [Emmet](#emmet)
 
 **[Optional / Language-specific Packages](#optional_language_specific_packages)**
 
-i. [laravel-blade](#laravel_blade)
+i. [Laravel Blade Highlighter](#laravel_blade_highlighter)
 
 ii. [LaTeXTools](#latextools)
 
@@ -182,7 +182,7 @@ There's so much more Emmet can do; you should check out the [documentation](http
 
 These packages add functionality such as syntax highlighting, snippets and build systems for specific languages or tools.
 
-## i. <a name="laravel_blade"></a> [laravel-blade](https://github.com/Medalink/laravel-blade)
+## i. <a name="laravel_blade_highlighter"></a> [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
 
 Syntax highlighting and some snippets for Laravel's Blade templating engine.
 
