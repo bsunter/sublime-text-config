@@ -15,19 +15,21 @@ i. [AdvancedNewFile](#advancednewfile)
 
 ii. [BracketHighlighter](#brackethighlighter)
 
-iii. [FTPSync](#ftpsync)
+iii. [BufferScroll](#bufferscroll)
 
-iv. [Git](#git)
+iv. [FTPSync](#ftpsync)
 
-v. [GitGutter](#gitgutter)
+v. [Git](#git)
 
-vi. [PlainTasks](#plaintasks)
+vi. [GitGutter](#gitgutter)
 
-vii. [SideBarEnhancements](#sidebarenhancements)
+vii. [PlainTasks](#plaintasks)
 
-viii. [Theme - Spacegray](#theme_spacegray)
+viii. [SideBarEnhancements](#sidebarenhancements)
 
-ix. [Vintageous](#vintageous)
+ix. [Theme - Spacegray](#theme_spacegray)
+
+x. [Vintageous](#vintageous)
 
 **[Web Design Packages](#webdesign_packages)**
 
@@ -61,11 +63,15 @@ Easier file creation. Provides the shortcuts:
 
 Better bracket highlighting. Has come a long way since its first release. Install and forget.
 
-## iii. <a name="ftpsync"></a> [FTPSync](https://github.com/NoxArt/SublimeText2-FTPSync)
+## iii. <a name="bufferscroll"></a> [BufferScroll](https://github.com/SublimeText/BufferScroll)
+
+Nifty little plug-in that remembers code foldings and cursor positions.
+
+## iv. <a name="ftpsync"></a> [FTPSync](https://github.com/NoxArt/SublimeText2-FTPSync)
 
 Manage FTP connections. Map local to remote folders. Allows for a [Coda](http://panic.com/coda)-like workflow. Extremely useful!
 
-## iv. <a name="git"></a> [Git](https://github.com/kemayo/sublime-text-2-git)
+## v. <a name="git"></a> [Git](https://github.com/kemayo/sublime-text-2-git)
 
 Adds support for Git. You can optionally create keybindings to control the plugin but I find that using the command palette works well enough.
 
@@ -77,13 +83,13 @@ Examples:
 
 Obviously requires a git repository to work.
 
-## v. <a name="gitgutter"></a> [GitGutter](https://github.com/jisaacks/GitGutter)
+## vi. <a name="gitgutter"></a> [GitGutter](https://github.com/jisaacks/GitGutter)
 
 Adds a gutter to the editor which provides information about added/modified/removed lines.
 
 Obviously requires a git repository to work.
 
-## vi. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
+## vii. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
 
 Formats your TODO files as checklists.
 
@@ -95,15 +101,15 @@ Adding a colon to words (like so `Front-end:`) creates headers.
 
 You can add tags like so: `@tag`
 
-## vii. <a name="sidebarenhancements"></a> [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+## viii. <a name="sidebarenhancements"></a> [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 
 Expands sidebar options which are _very_ limited by default. Essential plugin.
 
-## viii. <a name="theme_spacegray"></a> [Spacegray Theme](https://github.com/kkga/spacegray)
+## ix. <a name="theme_spacegray"></a> [Spacegray Theme](https://github.com/kkga/spacegray)
 
 Optional; but this is my favorite theme of the moment. I use the dark variant with the dark ocean colorscheme.
 
-## ix. <a name="vintageous"></a> [Vintageous](https://github.com/guillermooo/Vintageous)
+## x. <a name="vintageous"></a> [Vintageous](https://github.com/guillermooo/Vintageous)
 
 Awesome plugin. Makes the already powerful vintage mode even better. Adds support for EX commands.
 
