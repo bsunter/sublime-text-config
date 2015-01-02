@@ -29,7 +29,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "solid",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -84,7 +84,7 @@
 		"node_modules",
 		".idea"
 	],
-	"font_face": "Source Code Pro",
+	"font_face": "DejaVu Sans Mono for Powerline",
 	"font_size": 14.0,
 	"gutter": true,
 	"highlight_line": false,
