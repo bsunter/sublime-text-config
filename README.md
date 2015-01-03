@@ -17,19 +17,23 @@ ii. [BracketHighlighter](#brackethighlighter)
 
 iii. [BufferScroll](#bufferscroll)
 
-iv. [FTPSync](#ftpsync)
+iv. [EasyMotion](#easymotion)
 
-v. [Git](#git)
+v. [FTPSync](#ftpsync)
 
-vi. [GitGutter](#gitgutter)
+vi. [Git](#git)
 
-vii. [PlainTasks](#plaintasks)
+vii. [GitGutter](#gitgutter)
 
-viii. [SideBarEnhancements](#sidebarenhancements)
+viii. [PlainTasks](#plaintasks)
 
-ix. [Theme - Spacegray](#theme_spacegray)
+ix. [SideBarEnhancements](#sidebarenhancements)
 
-x. [Vintageous](#vintageous)
+x. [Theme - Spacegray](#theme_spacegray)
+
+xi. [TodoReview](#todoreview)
+
+xii. [Vintageous](#vintageous)
 
 **[Web Design Packages](#webdesign_packages)**
 
@@ -45,7 +49,9 @@ ii. [LaTeXTools](#latextools)
 
 iii. [Markdown Preview](#markdown_preview)
 
-iv. [Sass](#sass)
+iv. [Rust](#rust)
+
+v. [Sass](#sass)
 
 # <a name="must_have_packages"></a> Must-have Packages
 
@@ -67,11 +73,15 @@ Better bracket highlighting. Has come a long way since its first release. Instal
 
 Nifty little plug-in that remembers code foldings and cursor positions.
 
-## iv. <a name="ftpsync"></a> [FTPSync](https://github.com/NoxArt/SublimeText2-FTPSync)
+## iv. <a name="easymotion"></a> [EasyMotion](https://github.com/tednaleid/sublime-EasyMotion)
+
+Sublime Text version of [Vim's EasyMotion](http://www.vim.org/scripts/script.php?script_id=3526). Press `super + ;` followed by the character you want to jump to then press the corresponding character to jump there.
+
+## v. <a name="ftpsync"></a> [FTPSync](https://github.com/NoxArt/SublimeText2-FTPSync)
 
 Manage FTP connections. Map local to remote folders. Allows for a [Coda](http://panic.com/coda)-like workflow. Extremely useful!
 
-## v. <a name="git"></a> [Git](https://github.com/kemayo/sublime-text-2-git)
+## vi. <a name="git"></a> [Git](https://github.com/kemayo/sublime-text-2-git)
 
 Adds support for Git. You can optionally create keybindings to control the plugin but I find that using the command palette works well enough.
 
@@ -83,13 +93,13 @@ Examples:
 
 Obviously requires a git repository to work.
 
-## vi. <a name="gitgutter"></a> [GitGutter](https://github.com/jisaacks/GitGutter)
+## vii. <a name="gitgutter"></a> [GitGutter](https://github.com/jisaacks/GitGutter)
 
 Adds a gutter to the editor which provides information about added/modified/removed lines.
 
 Obviously requires a git repository to work.
 
-## vii. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
+## viii. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
 
 Formats your TODO files as checklists.
 
@@ -101,15 +111,19 @@ Adding a colon to words (like so `Front-end:`) creates headers.
 
 You can add tags like so: `@tag`
 
-## viii. <a name="sidebarenhancements"></a> [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+## ix. <a name="sidebarenhancements"></a> [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 
 Expands sidebar options which are _very_ limited by default. Essential plugin.
 
-## ix. <a name="theme_spacegray"></a> [Spacegray Theme](https://github.com/kkga/spacegray)
+## x. <a name="theme_spacegray"></a> [Spacegray Theme](https://github.com/kkga/spacegray)
 
 Optional; but this is my favorite theme of the moment. I use the dark variant with the dark ocean colorscheme.
 
-## x. <a name="vintageous"></a> [Vintageous](https://github.com/guillermooo/Vintageous)
+## xi. <a name="todoreview"></a> [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview)
+
+Collects project-wide todo's and formats them in a single document. Useful if you actually use TODO's in your code.
+
+## xii. <a name="vintageous"></a> [Vintageous](https://github.com/guillermooo/Vintageous)
 
 Awesome plugin. Makes the already powerful vintage mode even better. Adds support for EX commands.
 
@@ -202,6 +216,10 @@ Self-explanatory. Allows you to preview Markdown files. I'm using it right now t
 
 For instance, `super + shift + p` and type `mpb<enter>` to preview in the browser.
 
-## iv. [Sass](https://github.com/nathos/sass-textmate-bundle)
+## iv. [Rust](https://github.com/jhasse/sublime-rust)
 
-Syntax highlighting and snippets for SASS.
+Syntax highlighting and snippets for [Rust](http://www.rust-lang.org/).
+
+## v. [Sass](https://github.com/nathos/sass-textmate-bundle)
+
+Syntax highlighting and snippets for [SASS](http://sass-lang.com/).

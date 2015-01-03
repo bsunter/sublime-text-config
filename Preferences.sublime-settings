@@ -84,7 +84,7 @@
 		"node_modules",
 		".idea"
 	],
-	"font_face": "DejaVu Sans Mono for Powerline",
+	"font_face": "Anonymous Pro",
 	"font_size": 14.0,
 	"gutter": true,
 	"highlight_line": false,
