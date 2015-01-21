@@ -1,0 +1,17 @@
+{
+  "patterns": {
+    "TODO": "TODO[\\s]*?:[\\s]*(?P<todo>.*)$",
+    "FUTURE": "FUTURE[\\s]*?:[\\s]*(?P<future>.*)$"
+  },
+  "exclude_folders": [
+    "*.git*",
+    "*vendor*",
+    "*node_modules*",
+    "*storage*"
+  ],
+  "exclude_files": [
+    "*.sublime-workspace",
+    "*.sublime-project"
+  ],
+  "render_header_date": "%a %b %e %H:%M:%S",
+}
