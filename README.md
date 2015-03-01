@@ -43,15 +43,17 @@ ii. [Emmet](#emmet)
 
 **[Optional / Language-specific Packages](#optional_language_specific_packages)**
 
-i. [Laravel Blade Highlighter](#laravel_blade_highlighter)
+i. [DocBlockr](#docblockr)
 
-ii. [LaTeXTools](#latextools)
+ii. [Laravel Blade Highlighter](#laravel_blade_highlighter)
 
-iii. [Markdown Preview](#markdown_preview)
+iii. [LaTeXTools](#latextools)
 
-iv. [Rust](#rust)
+iv. [Markdown Preview](#markdown_preview)
 
-v. [Sass](#sass)
+v. [Rust](#rust)
+
+vi. [Sass](#sass)
 
 # <a name="must_have_packages"></a> Must-have Packages
 
@@ -202,24 +204,28 @@ There's so much more Emmet can do; you should check out the [documentation](http
 
 These packages add functionality such as syntax highlighting, snippets and build systems for specific languages or tools.
 
-## i. <a name="laravel_blade_highlighter"></a> [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
+## i. <a name="docblockr"></a> [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
+
+Generate docblocks for various languages.
+
+## ii. <a name="laravel_blade_highlighter"></a> [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
 
 Syntax highlighting and some snippets for Laravel's Blade templating engine.
 
-## ii. [LaTeXTools](https://github.com/SublimeText/LaTeXTools)
+## iii. [LaTeXTools](https://github.com/SublimeText/LaTeXTools)
 
 Snippets, build system, previewing. Essential if you use Sublime Text for LaTeX.
 
-## iii. [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+## iv. [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 
 Self-explanatory. Allows you to preview Markdown files. I'm using it right now to preview this file :)
 
 For instance, `super + shift + p` and type `mpb<enter>` to preview in the browser.
 
-## iv. [Rust](https://github.com/jhasse/sublime-rust)
+## v. [Rust](https://github.com/jhasse/sublime-rust)
 
 Syntax highlighting and snippets for [Rust](http://www.rust-lang.org/).
 
-## v. [Sass](https://github.com/nathos/sass-textmate-bundle)
+## vi. [Sass](https://github.com/nathos/sass-textmate-bundle)
 
 Syntax highlighting and snippets for [SASS](http://sass-lang.com/).
