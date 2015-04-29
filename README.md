@@ -19,13 +19,13 @@ iii. [BufferScroll](#bufferscroll)
 
 iv. [EasyMotion](#easymotion)
 
-v. [FTPSync](#ftpsync)
+v. [Git](#git)
 
-vi. [Git](#git)
+vi. [GitGutter](#gitgutter)
 
-vii. [GitGutter](#gitgutter)
+vii. [PlainTasks](#plaintasks)
 
-viii. [PlainTasks](#plaintasks)
+viii. [SFTP](#sftp)
 
 ix. [SideBarEnhancements](#sidebarenhancements)
 
@@ -79,11 +79,7 @@ Nifty little plug-in that remembers code foldings and cursor positions.
 
 Sublime Text version of [Vim's EasyMotion](http://www.vim.org/scripts/script.php?script_id=3526). Press `super + ;` followed by the character you want to jump to then press the corresponding character to jump there.
 
-## v. <a name="ftpsync"></a> [FTPSync](https://github.com/NoxArt/SublimeText2-FTPSync)
-
-Manage FTP connections. Map local to remote folders. Allows for a [Coda](http://panic.com/coda)-like workflow. Extremely useful!
-
-## vi. <a name="git"></a> [Git](https://github.com/kemayo/sublime-text-2-git)
+## v. <a name="git"></a> [Git](https://github.com/kemayo/sublime-text-2-git)
 
 Adds support for Git. You can optionally create keybindings to control the plugin but I find that using the command palette works well enough.
 
@@ -95,13 +91,13 @@ Examples:
 
 Obviously requires a git repository to work.
 
-## vii. <a name="gitgutter"></a> [GitGutter](https://github.com/jisaacks/GitGutter)
+## vi. <a name="gitgutter"></a> [GitGutter](https://github.com/jisaacks/GitGutter)
 
 Adds a gutter to the editor which provides information about added/modified/removed lines.
 
 Obviously requires a git repository to work.
 
-## viii. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
+## vii. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
 
 Formats your TODO files as checklists.
 
@@ -112,6 +108,10 @@ Adding a colon to words (like so `Front-end:`) creates headers.
 `super + d`: finish/unfinish a task.
 
 You can add tags like so: `@tag`
+
+## viii. <a name="sftp"></a> [SFTP](http://wbond.net/sublime_packages/sftp)
+
+Manage FTP connections. Map local to remote folders. Allows for a [Coda](http://panic.com/coda)-like workflow. Extremely useful! You are required to buy a license if you want to get rid of the popups, but it's worth it in my opinion. Alternatively you can look at [FTPSync](https://github.com/NoxArt/SublimeText2-FTPSync), (doesn't support SFTP).
 
 ## ix. <a name="sidebarenhancements"></a> [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 
