@@ -1,0 +1,8 @@
+{
+	"passes":
+	[
+	],
+	"php55warning": true,
+	"psr2": true,
+	"version": 3
+}
