@@ -84,8 +84,8 @@
 		"node_modules",
 		".idea"
 	],
-	"font_face": "Source Code Pro",
-	"font_size": 14.0,
+	"font_face": "Fira Mono",
+	"font_size": 12.0,
 	"gutter": true,
 	"highlight_line": false,
 	"highlight_modified_tabs": true,
