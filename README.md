@@ -229,4 +229,4 @@ Syntax highlighting and snippets for [Rust](http://www.rust-lang.org/).
 
 ## vi. <a name="sass"></a> [Sass](https://github.com/nathos/sass-textmate-bundle)
 
-Syntax highlighting and snippets for [SASS](http://sass-lang.com/).
+Syntax highlighting and snippets for [Sass](http://sass-lang.com/).
