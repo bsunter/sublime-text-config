@@ -1,9 +1,0 @@
-{
-"working_dir": "${project_path}",
-"cmd": [
-"/Users/Bart/.rvm/bin/rvm-auto-ruby", "-Ilib:test", "$file"
-],
-// "path": "/Users/YOURUSERNAME/.rvm/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin",
-"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
-"selector": "source.ruby"
-}

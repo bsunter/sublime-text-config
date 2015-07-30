@@ -1,14 +1,2 @@
-Package Control.last-run
-Package Control.sublime-settings
-Package Control.ca-list
-Package Control.ca-bundle
-Package Control.system-ca-bundle
-Package Control.cache/
-.DS_Store
-bh_unicode_properties.cache
-BufferScroll.sublime-settings
-Color Highlighter/ColorPicker_osx_x64
-Color Highlighter/themes/base16-ocean.dark.tmTheme
-Package Control.merged-ca-bundle
-Package Control.user-ca-bundle
-SFTP.sublime-settings
+*.sublime-settings
+!Preferences.sublime-settings
