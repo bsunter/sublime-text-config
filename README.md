@@ -37,9 +37,11 @@ xii. [Vintageous](#vintageous)
 
 **[Web Design Packages](#webdesign_packages)**
 
-i. [ColorPicker](#colorpicker)
+i. [Color Highlighter](#color_highlighter)
 
-ii. [Emmet](#emmet)
+ii. [ColorPicker](#colorpicker)
+
+iii. [Emmet](#emmet)
 
 **[Optional / Language-specific Packages](#optional_language_specific_packages)**
 
@@ -155,12 +157,15 @@ You need to have the Vintage package enabled and you need to be in command mode.
 
 These packages are useful for web design.
 
+## i. <a name="color_highlighter"></a>
 
-## i. <a name="colorpicker"></a> [ColorPicker](https://github.com/weslly/ColorPicker)
+Highlights colorcodes (e.g. #fff or rgba(0, 0, 0, 1)) with its actual color. Useful when writing CSS or Sass.
+
+## ii. <a name="colorpicker"></a> [ColorPicker](https://github.com/weslly/ColorPicker)
 
 Pops up a handy color picker with `super + shift + c`.
 
-## ii. <a name="emmet"></a> [Emmet](https://github.com/sergeche/emmet-sublime)
+## iii. <a name="emmet"></a> [Emmet](https://github.com/sergeche/emmet-sublime)
 
 A toolkit for web developers. Evolved from Zen Coding. It is advised to disable all of the keybindings because some of them clash with default keybindings like `super + d/ctrl + d` (Expand selection to word) and `ctrl + e` (Move to EOL).
 
