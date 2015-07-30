@@ -4,9 +4,9 @@ This is my personal sublime text configuration.
 
 ## Package Control
 
-**All** packages should be installed via [Package Control](http://wbond.net/sublime_packages/package_control).
+**All** packages should be installed via [Package Control](https://packagecontrol.io/).
 
-Check out the instructions on [this](https://sublime.wbond.net/installation) page.
+Check out the instructions on [this](https://packagecontrol.io/installation) page.
 
 ## Packages
 **[Must-have Packages](#must_have_packages)**
@@ -153,11 +153,12 @@ You need to have the Vintage package enabled and you need to be in command mode.
 
 These packages are useful for web design.
 
-## i. <a name="colorpicker"> [ColorPicker](https://github.com/weslly/ColorPicker)
+
+## i. <a name="colorpicker"></a> [ColorPicker](https://github.com/weslly/ColorPicker)
 
 Pops up a handy color picker with `super + shift + c`.
 
-## ii. <a name="emmet"> [Emmet](https://github.com/sergeche/emmet-sublime)
+## ii. <a name="emmet"></a> [Emmet](https://github.com/sergeche/emmet-sublime)
 
 A toolkit for web developers. Evolved from Zen Coding. It is advised to disable all of the keybindings because some of them clash with default keybindings like `super + d/ctrl + d` (Expand selection to word) and `ctrl + e` (Move to EOL).
 
@@ -212,20 +213,20 @@ Generate docblocks for various languages.
 
 Syntax highlighting and some snippets for Laravel's Blade templating engine.
 
-## iii. [LaTeXTools](https://github.com/SublimeText/LaTeXTools)
+## iii. <a name="latextools"></a> [LaTeXTools](https://github.com/SublimeText/LaTeXTools)
 
 Snippets, build system, previewing. Essential if you use Sublime Text for LaTeX.
 
-## iv. [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+## iv. <a name="markdown_preview"></a> [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 
 Self-explanatory. Allows you to preview Markdown files. I'm using it right now to preview this file :)
 
 For instance, `super + shift + p` and type `mpb<enter>` to preview in the browser.
 
-## v. [Rust](https://github.com/jhasse/sublime-rust)
+## v. <a name="rust"></a> [Rust](https://github.com/jhasse/sublime-rust)
 
 Syntax highlighting and snippets for [Rust](http://www.rust-lang.org/).
 
-## vi. [Sass](https://github.com/nathos/sass-textmate-bundle)
+## vi. <a name="sass"></a> [Sass](https://github.com/nathos/sass-textmate-bundle)
 
 Syntax highlighting and snippets for [SASS](http://sass-lang.com/).
