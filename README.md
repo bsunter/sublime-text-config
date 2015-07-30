@@ -43,17 +43,19 @@ ii. [Emmet](#emmet)
 
 **[Optional / Language-specific Packages](#optional_language_specific_packages)**
 
-i. [DocBlockr](#docblockr)
+i. [Babel](#babel)
 
-ii. [Laravel Blade Highlighter](#laravel_blade_highlighter)
+ii. [DocBlockr](#docblockr)
 
-iii. [LaTeXTools](#latextools)
+iii. [Laravel Blade Highlighter](#laravel_blade_highlighter)
 
-iv. [Markdown Preview](#markdown_preview)
+iv. [LaTeXTools](#latextools)
 
-v. [Rust](#rust)
+v. [Markdown Preview](#markdown_preview)
 
-vi. [Sass](#sass)
+vi. [Rust](#rust)
+
+vii. [Sass](#sass)
 
 # <a name="must_have_packages"></a> Must-have Packages
 
@@ -205,28 +207,32 @@ There's so much more Emmet can do; you should check out the [documentation](http
 
 These packages add functionality such as syntax highlighting, snippets and build systems for specific languages or tools.
 
-## i. <a name="docblockr"></a> [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
+## i. <a name="babel"></a> [Babel](https://github.com/babel/babel-sublime)
+
+Adds support for ES6 and React JSX.
+
+## ii. <a name="docblockr"></a> [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 
 Generate docblocks for various languages.
 
-## ii. <a name="laravel_blade_highlighter"></a> [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
+## iii. <a name="laravel_blade_highlighter"></a> [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
 
 Syntax highlighting and some snippets for Laravel's Blade templating engine.
 
-## iii. <a name="latextools"></a> [LaTeXTools](https://github.com/SublimeText/LaTeXTools)
+## iv. <a name="latextools"></a> [LaTeXTools](https://github.com/SublimeText/LaTeXTools)
 
 Snippets, build system, previewing. Essential if you use Sublime Text for LaTeX.
 
-## iv. <a name="markdown_preview"></a> [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+## v. <a name="markdown_preview"></a> [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 
 Self-explanatory. Allows you to preview Markdown files. I'm using it right now to preview this file :)
 
 For instance, `super + shift + p` and type `mpb<enter>` to preview in the browser.
 
-## v. <a name="rust"></a> [Rust](https://github.com/jhasse/sublime-rust)
+## vi. <a name="rust"></a> [Rust](https://github.com/jhasse/sublime-rust)
 
 Syntax highlighting and snippets for [Rust](http://www.rust-lang.org/).
 
-## vi. <a name="sass"></a> [Sass](https://github.com/nathos/sass-textmate-bundle)
+## vii. <a name="sass"></a> [Sass](https://github.com/nathos/sass-textmate-bundle)
 
 Syntax highlighting and snippets for [Sass](http://sass-lang.com/).
