@@ -1,2 +1,10 @@
+*.cache
+Package Control.*
 *.sublime-settings
+*.sublime-build
 !Preferences.sublime-settings
+
+# Ignore plugins that may or may not have been installed
+Color Highlighter/
+ColorPicker/
+SideBarEnhancements/
