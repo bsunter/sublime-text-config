@@ -23,13 +23,13 @@ v. [Git](#git)
 
 vi. [GitGutter](#gitgutter)
 
-vii. [PlainTasks](#plaintasks)
+vii. [Material Theme](#material_theme)
 
-viii. [SFTP](#sftp)
+viii. [PlainTasks](#plaintasks)
 
-ix. [SideBarEnhancements](#sidebarenhancements)
+ix. [SFTP](#sftp)
 
-x. [Theme - Spacegray](#theme_spacegray)
+x. [SideBarEnhancements](#sidebarenhancements)
 
 xi. [TodoReview](#todoreview)
 
@@ -101,7 +101,11 @@ Adds a gutter to the editor which provides information about added/modified/remo
 
 Obviously requires a git repository to work.
 
-## vii. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
+## vii. <a name="material_theme"></a> [Material Theme](https://github.com/equinusocio/material-theme)
+
+Optional; but this is my favorite theme of the moment. There are theme specific settings in my preferences file.
+
+## viii. <a name="plaintasks"></a> [PlainTasks](https://github.com/aziz/PlainTasks)
 
 Formats your TODO files as checklists.
 
@@ -113,17 +117,13 @@ Adding a colon to words (like so `Front-end:`) creates headers.
 
 You can add tags like so: `@tag`
 
-## viii. <a name="sftp"></a> [SFTP](http://wbond.net/sublime_packages/sftp)
+## ix. <a name="sftp"></a> [SFTP](http://wbond.net/sublime_packages/sftp)
 
 Manage FTP connections. Map local to remote folders. Allows for a [Coda](http://panic.com/coda)-like workflow. Extremely useful! You are required to buy a license if you want to get rid of the popups, but it's worth it in my opinion. Alternatively you can look at [FTPSync](https://github.com/NoxArt/SublimeText2-FTPSync), (doesn't support SFTP).
 
-## ix. <a name="sidebarenhancements"></a> [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+## x. <a name="sidebarenhancements"></a> [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 
 Expands sidebar options which are _very_ limited by default. Essential plugin.
-
-## x. <a name="theme_spacegray"></a> [Spacegray Theme](https://github.com/kkga/spacegray)
-
-Optional; but this is my favorite theme of the moment. I use the dark variant with the dark ocean colorscheme.
 
 ## xi. <a name="todoreview"></a> [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview)
 
