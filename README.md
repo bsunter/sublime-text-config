@@ -55,9 +55,11 @@ iv. [LaTeXTools](#latextools)
 
 v. [Markdown Preview](#markdown_preview)
 
-vi. [Rust](#rust)
+vi. [phpfmt](#phpfmt)
 
-vii. [Sass](#sass)
+vii. [Rust](#rust)
+
+viii. [Sass](#sass)
 
 # <a name="must_have_packages"></a> Must-have packages
 
@@ -234,10 +236,14 @@ Self-explanatory. Allows you to preview Markdown files. I'm using it right now t
 
 For instance, `super + shift + p` and type `mpb<enter>` to preview in the browser.
 
-## vi. <a name="rust"></a> [Rust](https://github.com/jhasse/sublime-rust)
+## vi. <a name="phpfmt"></a> [phpfmt](https://packagecontrol.io/packages/phpfmt)
+
+Formats PHP code to PSR-2 (there are a lot more features, but this is mainly what I use it for).
+
+## vii. <a name="rust"></a> [Rust](https://github.com/jhasse/sublime-rust)
 
 Syntax highlighting and snippets for [Rust](http://www.rust-lang.org/).
 
-## vii. <a name="sass"></a> [Sass](https://github.com/nathos/sass-textmate-bundle)
+## viii. <a name="sass"></a> [Sass](https://github.com/nathos/sass-textmate-bundle)
 
 Syntax highlighting and snippets for [Sass](http://sass-lang.com/).
