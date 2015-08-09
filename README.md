@@ -9,7 +9,7 @@ This is my personal sublime text configuration.
 Check out the instructions on [this](https://packagecontrol.io/installation) page.
 
 ## Packages
-**[Must-have Packages](#must_have_packages)**
+**[Must-have packages](#must_have_packages)**
 
 i. [AdvancedNewFile](#advancednewfile)
 
@@ -35,7 +35,7 @@ xi. [TodoReview](#todoreview)
 
 xii. [Vintageous](#vintageous)
 
-**[Web Design Packages](#webdesign_packages)**
+**[Web design packages](#webdesign_packages)**
 
 i. [Color Highlighter](#color_highlighter)
 
@@ -43,7 +43,7 @@ ii. [ColorPicker](#colorpicker)
 
 iii. [Emmet](#emmet)
 
-**[Optional / Language-specific Packages](#optional_language_specific_packages)**
+**[Optional / language-specific packages](#optional_language_specific_packages)**
 
 i. [Babel](#babel)
 
@@ -157,7 +157,7 @@ You need to have the Vintage package enabled and you need to be in command mode.
 
 These packages are useful for web design.
 
-## i. <a name="color_highlighter"></a>
+## i. <a name="color_highlighter"></a> [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter)
 
 Highlights colorcodes (e.g. #fff or rgba(0, 0, 0, 1)) with its actual color. Useful when writing CSS or Sass.
 
