@@ -59,7 +59,7 @@ vi. [Rust](#rust)
 
 vii. [Sass](#sass)
 
-# <a name="must_have_packages"></a> Must-have Packages
+# <a name="must_have_packages"></a> Must-have packages
 
 These are the packages I consider to be essential for my development work.
 
@@ -153,7 +153,7 @@ And many more.
 
 You need to have the Vintage package enabled and you need to be in command mode.
 
-# <a name="web_design_packages"></a> Web Design Packages
+# <a name="web_design_packages"></a> Web design packages
 
 These packages are useful for web design.
 
@@ -208,7 +208,7 @@ And intuitive CSS completions:
 
 There's so much more Emmet can do; you should check out the [documentation](http://docs.emmet.io/) to learn about all of the features.
 
-# <a name="optional_language_specific_packages"></a> Optional / Language-specific Packages
+# <a name="optional_language_specific_packages"></a> Optional / language-specific packages
 
 These packages add functionality such as syntax highlighting, snippets and build systems for specific languages or tools.
 
