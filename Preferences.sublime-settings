@@ -85,7 +85,7 @@
 		"node_modules",
 		".idea"
 	],
-	"font_face": "Fira Mono",
+	"font_face": "Input Mono",
 	"font_options":
 	[
 		"no_round"
