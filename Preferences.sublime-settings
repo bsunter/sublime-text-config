@@ -83,6 +83,7 @@
 		"CVS",
 		".sass-cache",
 		"node_modules",
+		"typings",
 		".idea"
 	],
 	"font_face": "Input Mono",
