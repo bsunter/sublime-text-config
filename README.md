@@ -1,6 +1,6 @@
 # Sublime Text Configuration #
 
-This is my personal sublime text configuration.
+This is my sublime text configuration.
 
 ## Package Control
 
