@@ -39,9 +39,7 @@ xii. [Vintageous](#vintageous)
 
 i. [Color Highlighter](#color_highlighter)
 
-ii. [ColorPicker](#colorpicker)
-
-iii. [Emmet](#emmet)
+ii. [Emmet](#emmet)
 
 **[Optional / language-specific packages](#optional_language_specific_packages)**
 
@@ -60,6 +58,10 @@ vi. [phpfmt](#phpfmt)
 vii. [Rust](#rust)
 
 viii. [Sass](#sass)
+
+ix. [AngularJS](#angularjs)
+
+x. [TypeScript](#typescript)
 
 # <a name="must_have_packages"></a> Must-have packages
 
@@ -161,13 +163,9 @@ These packages are useful for web design.
 
 ## i. <a name="color_highlighter"></a> [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter)
 
-Highlights colorcodes (e.g. #fff or rgba(0, 0, 0, 1)) with its actual color. Useful when writing CSS or Sass.
+Highlights colorcodes (e.g. #fff or rgba(0, 0, 0, 1)) with its actual color. Useful when writing CSS or Sass. Also includes a color picker.
 
-## ii. <a name="colorpicker"></a> [ColorPicker](https://github.com/weslly/ColorPicker)
-
-Pops up a handy color picker with `super + shift + c`.
-
-## iii. <a name="emmet"></a> [Emmet](https://github.com/sergeche/emmet-sublime)
+## ii. <a name="emmet"></a> [Emmet](https://github.com/sergeche/emmet-sublime)
 
 A toolkit for web developers. Evolved from Zen Coding. It is advised to disable all of the keybindings because some of them clash with default keybindings like `super + d/ctrl + d` (Expand selection to word) and `ctrl + e` (Move to EOL).
 
@@ -247,3 +245,11 @@ Syntax highlighting and snippets for [Rust](http://www.rust-lang.org/).
 ## viii. <a name="sass"></a> [Sass](https://github.com/nathos/sass-textmate-bundle)
 
 Syntax highlighting and snippets for [Sass](http://sass-lang.com/).
+
+## ix. <a name="angularjs"></a> [AngularJS](https://github.com/angular-ui/AngularJS-sublime-package)
+
+Expands sublime text features for [Angular](https://angularjs.org/) developers.
+
+## x. <a name="typescript"></a> [TypeScript](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
+
+Syntax highlighting, code completion and snippets for [TypeScript](https://www.typescriptlang.org/). Useful for Angular 2 development.
