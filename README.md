@@ -23,7 +23,7 @@ v. [Git](#git)
 
 vi. [GitGutter](#gitgutter)
 
-vii. [Material Theme](#material_theme)
+vii. [Boxy Theme](#boxy_theme)
 
 viii. [PlainTasks](#plaintasks)
 
@@ -105,7 +105,7 @@ Adds a gutter to the editor which provides information about added/modified/remo
 
 Obviously requires a git repository to work.
 
-## vii. <a name="material_theme"></a> [Material Theme](https://github.com/equinusocio/material-theme)
+## vii. <a name="boxy_theme"></a> [Boxy Theme](https://github.com/oivva/boxy)
 
 Optional; but this is my favorite theme of the moment. There are theme specific settings in my preferences file.
 
