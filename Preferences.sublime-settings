@@ -67,7 +67,6 @@
 		"*.psd",
 		"*.db",
 		"*.gitattributes",
-		"*.gitignore",
 		"*.gitmodules",
 		"*.sublime-workspace",
 		"*._*",
