@@ -82,7 +82,8 @@
 		"CVS",
 		".sass-cache",
 		"typings",
-		".idea"
+		".idea",
+		"node_modules"
 	],
 	"font_face": "Source Code Pro",
 	"font_options":
