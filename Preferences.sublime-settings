@@ -13,6 +13,7 @@
 	"auto_match_enabled": true,
 	"binary_file_patterns":
 	[
+		"node_modules/*",
 		"*.jpg",
 		"*.jpeg",
 		"*.png",
@@ -82,8 +83,7 @@
 		"CVS",
 		".sass-cache",
 		"typings",
-		".idea",
-		"node_modules"
+		".idea"
 	],
 	"font_face": "Source Code Pro",
 	"font_options":
