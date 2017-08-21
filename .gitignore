@@ -1,6 +1,5 @@
 *.cache
 Package Control.*
-*.sublime-settings
 *.sublime-build
 !Preferences.sublime-settings
 
@@ -9,3 +8,7 @@ Color Highlighter/
 ColorPicker/
 SideBarEnhancements/
 oscrypto-ca-bundle.crt
+SublimeLinter.sublime-settings
+phpfmt.sublime-settings
+SFTP.sublime-settings
+BufferScroll.sublime-settings
